@@ -1,4 +1,4 @@
-JURIJ
+Jurij
 
 Christian
 
