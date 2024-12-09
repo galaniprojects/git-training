@@ -1,3 +1,7 @@
-# git-training
+JURIJ
 
-IT'S ME, JURIJ
+Christian
+
+Yuri
+
+Behrang
