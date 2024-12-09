@@ -6,3 +6,5 @@ Meine erste Änderung
 Meine zweite Änderung
 
 Dies ist ein Test, den ich hinzufügen möchte
+
+Neue Zeile
